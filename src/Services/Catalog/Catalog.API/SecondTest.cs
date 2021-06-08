@@ -8,5 +8,6 @@ namespace Catalog.API
     public class SecondTest
     {
         public int One { get; set; }
+        public int two { get; set; }
     }
 }

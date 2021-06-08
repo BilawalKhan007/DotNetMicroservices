@@ -7,6 +7,7 @@ namespace Catalog.API
 {
     public class test
     {
-        public int test3 { get; set; }
+        public int test2 { get; set; }
+        public int test32 { get; set; }
     }
 }
